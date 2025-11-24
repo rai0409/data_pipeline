@@ -1,0 +1,18 @@
+# Secrets
+.env
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Datasets
+data_raw/
+data_clean/
+
+# VSCode
+.vscode/
